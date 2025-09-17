@@ -1,0 +1,15 @@
+﻿  helloworld.cpp
+C:\Users\Evan Reumann\source\repos\GETTINGSTARTED\GETTINGSTARTED\helloworld.h(53,35): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'helloworld.cpp')
+  
+C:\Users\Evan Reumann\source\repos\GETTINGSTARTED\GETTINGSTARTED\helloworld.h(57,31): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'helloworld.cpp')
+  
+C:\Users\Evan Reumann\source\repos\GETTINGSTARTED\GETTINGSTARTED\helloworld.h(69,35): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'helloworld.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 129 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GETTINGSTARTED.vcxproj -> C:\Users\Evan Reumann\source\repos\GETTINGSTARTED\x64\Release\Type+Response.exe

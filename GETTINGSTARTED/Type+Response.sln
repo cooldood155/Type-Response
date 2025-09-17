@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Type+Response", "GETTINGSTARTED\GETTINGSTARTED.vcxproj", "{EC3AC318-1B1B-4861-AE3B-09108391924C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Type + Response Setup", "Type + Response Setup\Type + Response Setup.vdproj", "{658BCC05-62DE-744E-6B6B-F4365C1F4709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3AC318-1B1B-4861-AE3B-09108391924C}.Debug|x64.ActiveCfg = Release|x64
+		{EC3AC318-1B1B-4861-AE3B-09108391924C}.Debug|x64.Build.0 = Release|x64
+		{EC3AC318-1B1B-4861-AE3B-09108391924C}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC3AC318-1B1B-4861-AE3B-09108391924C}.Debug|x86.Build.0 = Debug|Win32
+		{EC3AC318-1B1B-4861-AE3B-09108391924C}.Release|x64.ActiveCfg = Release|x64
+		{EC3AC318-1B1B-4861-AE3B-09108391924C}.Release|x64.Build.0 = Release|x64
+		{EC3AC318-1B1B-4861-AE3B-09108391924C}.Release|x86.ActiveCfg = Release|Win32
+		{EC3AC318-1B1B-4861-AE3B-09108391924C}.Release|x86.Build.0 = Release|Win32
+		{658BCC05-62DE-744E-6B6B-F4365C1F4709}.Debug|x64.ActiveCfg = Debug
+		{658BCC05-62DE-744E-6B6B-F4365C1F4709}.Debug|x86.ActiveCfg = Debug
+		{658BCC05-62DE-744E-6B6B-F4365C1F4709}.Release|x64.ActiveCfg = Release
+		{658BCC05-62DE-744E-6B6B-F4365C1F4709}.Release|x64.Build.0 = Release
+		{658BCC05-62DE-744E-6B6B-F4365C1F4709}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F38B387-A866-4670-8929-0937C252CC59}
+	EndGlobalSection
+EndGlobal
